@@ -1,2 +1,2 @@
 # SPP-Payment-with-go
-SPP payment application with golang, beego, and kafka system.
+SPP payment application with nestsjs, kafka, dan react ts

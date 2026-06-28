@@ -1,7 +1,0 @@
-CREATE TABLE pembayaran_spp (
-    id_pembayaran INT AUTO_INCREMENT PRIMARY KEY,
-    nis VARCHAR(20) NOT NULL DEFAULT '',
-    jumlah_spp DECIMAL(10,2) NOT NULL DEFAULT 0.00,
-    tgl_pembayaran DATE NOT NULL DEFAULT '1970-01-01',
-    keterangan VARCHAR(255) NOT NULL DEFAULT ''
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
